@@ -9,5 +9,7 @@ public interface Explodable {
     /**
      * Explodes, damaging everything around itself.
      */
-    public void explode();
+    public void explode(Unit player);
+    
+    public boolean isExploded();
 }

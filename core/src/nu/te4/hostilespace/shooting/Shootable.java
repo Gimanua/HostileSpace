@@ -1,4 +1,4 @@
-package nu.te4.hostilespace;
+package nu.te4.hostilespace.shooting;
 
 /**
  * Can shoot.

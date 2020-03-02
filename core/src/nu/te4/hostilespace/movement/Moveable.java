@@ -1,4 +1,4 @@
-package nu.te4.hostilespace;
+package nu.te4.hostilespace.movement;
 
 /**
  * Can move.
@@ -7,7 +7,7 @@ package nu.te4.hostilespace;
 public interface Moveable {
     
     /**
-     * Moves across the screen.
+     * Moves a Unit across the screen.
      */
     public void move();
 }

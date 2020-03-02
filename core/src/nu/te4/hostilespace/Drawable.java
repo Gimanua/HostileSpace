@@ -13,4 +13,9 @@ public interface Drawable {
      * @param spriteBatch The SpriteBatch doing the drawing.
      */
     public void draw(SpriteBatch spriteBatch);
+    
+    /**
+     * Disposes itself.
+     */
+    public void dispose();
 }

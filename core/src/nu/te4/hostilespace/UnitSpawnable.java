@@ -1,7 +1,5 @@
 package nu.te4.hostilespace;
 
-import nu.te4.hostilespace.enemies.Unit;
-
 /**
  * Can spawn a Unit.
  * @author Adrian Klasson
